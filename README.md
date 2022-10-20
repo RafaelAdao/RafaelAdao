@@ -4,9 +4,10 @@
   <a href="https://twitter.com/_RafaelAdao" target="_blank"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
   <a href="https://www.linkedin.com/in/rafael-adao/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://www.instagram.com/rafael.adao.sc/" target="_blank"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
-  <a href="https://terrorinsoftware.wordpress.com/" target="_blank"><img src="https://user-images.githubusercontent.com/5923706/196973655-7d588394-c511-402f-8e44-0a074e9d776e.png" width="96" height="96"/></a>  
-  <a href="https://www.skoob.com.br/usuario/512227" target="_blank"><img src="https://user-images.githubusercontent.com/5923706/196977035-9d9a749b-99aa-4ccf-9b92-0561cc3fb1b2.png"/></a>
+  <a href="https://terrorinsoftware.wordpress.com/" target="_blank"><img src="https://user-images.githubusercontent.com/5923706/196973655-7d588394-c511-402f-8e44-0a074e9d776e.png" width="96" height="96" alt="terrorinsoftware"/></a>  
+  <a href="https://www.skoob.com.br/usuario/512227" target="_blank"><img src="https://user-images.githubusercontent.com/5923706/196977035-9d9a749b-99aa-4ccf-9b92-0561cc3fb1b2.png" alt="skoob"/></a>
 </p>
+
 
 <!--
 **RafaelAdao/RafaelAdao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
