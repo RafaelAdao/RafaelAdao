@@ -1,10 +1,12 @@
 ### Hi there 👋
 
 <p align="center">
-  <a href="https://twitter.com/_RafaelAdao" target="_blank"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
-  <a href="https://www.linkedin.com/in/rafael-adao/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://www.instagram.com/rafael.adao.sc/" target="_blank"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
-  <a href="https://www.skoob.com.br/usuario/512227" target="_blank"><img src="https://user-images.githubusercontent.com/5923706/196977035-9d9a749b-99aa-4ccf-9b92-0561cc3fb1b2.png" alt="skoob"/></a>
+  <a href="https://twitter.com/_RafaelAdao" target="_blank"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter" width="96" height="96"/></a>
+  <a href="https://www.linkedin.com/in/rafael-adao/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="96" height="96"/></a>
+  <a href="https://www.instagram.com/rafael.adao.sc/" target="_blank"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" width="96" height="96"/></a>
+  <a href="https://www.skoob.com.br/usuario/512227" target="_blank"><img src="https://user-images.githubusercontent.com/5923706/196977035-9d9a749b-99aa-4ccf-9b92-0561cc3fb1b2.png" alt="skoob" width="96" height="96"/></a>
+  <a href="https://rafaeladao.substack.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/53023767?s=200&v=4" width="96" height="96" alt="substack"/></a>
+  <a rel="nofollow" href="https://www.goodreads.com/user/show/39352274-rafael-ad-o"><img alt="goodreads.com" style="border:0" src="https://s.gr-assets.com/images/widget/widget_logo.gif" /></a>
 </p>
 
 
